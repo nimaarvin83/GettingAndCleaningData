@@ -1,6 +1,6 @@
-#Codebook for the data manipulation process - Getting and Cleaning Data Programming Assignment
+### Codebook for the data manipulation process - Getting and Cleaning Data Programming Assignment
 
-##Variables
+## Variables
 1. mainpath: path to the "/UCI HAR Dataset" directory inside the working directory
 2. trainpath : path to the "/UCI HAR Dataset/train" directory in the working directory
 3. testpath : path to the "/UCI HAR Dataset/test" directory in the working directory
